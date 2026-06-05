@@ -1,4 +1,3 @@
-package Generics;
 
 class Test<T, U> {
   T obj1;
