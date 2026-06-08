@@ -1,4 +1,3 @@
-import javax.naming.InsufficientResourcesException;
 
 public class BankDemo {
   public static void main(String[] args) {
